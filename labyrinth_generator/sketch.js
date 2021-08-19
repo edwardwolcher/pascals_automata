@@ -5,7 +5,6 @@ function setup() {
     maze = new Maze(4, 9);
     maze.completePath()
     maze.drawLabyrinth()
-    // maze.draw()
 }
 
 class Maze {

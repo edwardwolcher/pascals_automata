@@ -23,9 +23,9 @@ For a detailed explanation of the conceptual framework of this piece please see 
 
 ## Code Explanation
 
-The codebase is primarily C++ Arduino code contained in the "ritual" folder. The "Text.h" library contains the combinatorial lists for prayer generation.
+The codebase is primarily C++ Arduino code contained in the "ritual" folder. The "Text.h" library contains the combinatorial lists for prayer generation. The main trick in the code is reading the textual data into a string buffer for random assignment.
 
-The SVG generation is accomplished via an implementation of the Processing framework and is contained within the "labyrinth_generator" folder. 
+The SVG generation is accomplished via an implementation of the Processing framework and is contained within the "labyrinth_generator" folder. SVG drawing is tiggered along with arduino code. 
 
 ## Images
 

@@ -1,3 +1,5 @@
+// Generates SVG of labyrinth. Uncomment the "save" command on line 10 to save the file for processing. 
+
 let maze;
 
 function setup() {
@@ -5,6 +7,7 @@ function setup() {
     maze = new Maze(4, 9);
     maze.completePath()
     maze.drawLabyrinth()
+    // save("labyrinth.svg");
 }
 
 class Maze {

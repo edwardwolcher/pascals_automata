@@ -17,6 +17,10 @@ The labryinth is based on a [self-avoiding random walk](https://en.wikipedia.org
 
 The systems together create a continuously updated religious ritual inspired most specifically by Arthur C. Clarke's classic short story [*The Nine Billion Names of God*](https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God). Though the amount of time to generate all possible iterations of its ritual act far outstretches the possible lifespan of planet Earth, I find something profound in the possibility that the machine could continually iterate through these practices and inevitably hit on something "real".
 
+## Design Elements
+
+The elements of the piece are a juxtaposition of traditional/ceremonial design and raw concrete/wire to emphasize the core concept. The nodes are placed on a prayer matts on top of a bare concrete floor, the printer piece is encased in a decorative, ceremonial box, the rotating prayer wheel holds a brass religious bowl, and the pen plotter is fitted with charcoal. The Arduino controller and wire scheme are left naked but decoratively laid out.
+
 ## Conceptual Background
 
 For a detailed explanation of the conceptual framework of this piece please see the "concept.md" file. 

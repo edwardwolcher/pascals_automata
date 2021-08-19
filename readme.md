@@ -1,5 +1,7 @@
 # Pascal's Automata
 
+https://user-images.githubusercontent.com/65256014/130068457-ef01dbbd-7e68-49d2-aca0-18e5e4e446f3.mp4
+
 University of Washington DXARTS 470 Final Project
 Edward Wolcher
 
